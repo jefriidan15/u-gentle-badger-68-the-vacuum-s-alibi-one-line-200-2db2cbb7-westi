@@ -1,0 +1,1 @@
+{"description":"The Vacuum's Alibi: one deadpan line from a robot vacuum explaining why it missed a spot (make.fun entry)","license":"MIT","name":"the-vacuums-alibi","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
